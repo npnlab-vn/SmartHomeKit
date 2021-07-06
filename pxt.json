@@ -4,7 +4,8 @@
     "description": "Thư viện SmartHomeKit dành cho Micro:Bit",
     "dependencies": {
         "core": "*",
-        "NFC": "github:npnlab-vn/pxt-NFC"
+        "NFC": "github:npnlab-vn/pxt-NFC",
+        "RTC1307": "github:npnlab-vn/pxt-realtimeclock-ds1307"
     },
     "files": [
         "README.md",
